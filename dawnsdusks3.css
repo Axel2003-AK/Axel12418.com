@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    margin-right: 5%;
+    margin-left: 5%;
+    text-align: center;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.navbar{
+    width: fit-content;
+    height: auto;
+    background-color: 5598AF;
+}
+.content p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
